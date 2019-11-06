@@ -1,10 +1,15 @@
-.navbar-light {
+.navbar-light,.yui3-widget-content-expanded,.card-header,tbody,td,tr {
     background: #1D1C1A !important;
+	color: white !important;
+}
+
+.moodle-dialogue-hd{
+	background:white !important;
 }
 
 #page-wrapper {
-    background: #0B0B0A;
-    color: white;
+    background: #0B0B0A !important;
+    color: white !important;
 }
 
 .site-name {
